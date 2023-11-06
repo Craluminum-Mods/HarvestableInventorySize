@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "side": "universal",
+    "modid": "harvestableinventorysize",
+    "name": "Harvestable Inventory Size",
+    "description": "Increases harvestable inventory size for every harvestable creature",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18.8"
+    }
+}
